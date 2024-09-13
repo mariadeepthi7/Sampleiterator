@@ -9,6 +9,7 @@ public class Iteratorsample {
 		v.add("is");
 		v.add("beautiful");
 		v.add("Enjoy every movement");
+		v.add("Life is Unpredictable Be Happy Always ");
 		java.util.Iterator<String> i = v.iterator();
 		while (i.hasNext()) {
 			String n =  i.next();
